@@ -1,3 +1,8 @@
 .conteúdo {
     background-color: #00ff11;
 }
+.título {
+    color: black;
+    font-size: 70px;
+    text-align: center;
+}
